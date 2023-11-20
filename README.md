@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @SaiKiranSingamaneni
-- 👀 I’m interested in programming, technology and watching movies.
-- 🌱 I’m currently learning Java
-- 💞️ I’m looking to collaborate on any open source java projects or any projects related to java.
-- 📫 How to reach me saikiran29121@gmail.com
+- 👀 I’m interested in front-end web development, technology and learning new interesting things.
+- 🌱 I’m working on dot net full stack web development and Angular.
+- 💞️ I'm currently working on building my portfolio website to showcase my skills.
+- 📫 You can reach out to me if you have any interesting things to say.
 
 <!---
 SaiKiranSingamaneni/SaiKiranSingamaneni is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
